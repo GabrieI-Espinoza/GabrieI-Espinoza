@@ -60,9 +60,9 @@ I'm a full-stack developer and aspiring software engineer with experience in Pyt
 <p align="center">
   <i>Thanks for visiting my profile!</i>  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=McIov1n&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrieI-Espinoza&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McIov1n&layout=compact&theme=tokyonight&hide_title=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieI-Espinoza&layout=compact&theme=tokyonight&hide_title=true" alt="Most Used Languages" />
 </p>
 
 ## Connect With Me
