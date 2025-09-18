@@ -57,14 +57,6 @@ I'm a full-stack developer and aspiring software engineer with experience in Pyt
 
 *Coming soon: Highlights of my favorite projects & contributions!*
 
-<p align="center">
-  <i>Thanks for visiting my profile!</i>  
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrieI-Espinoza&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieI-Espinoza&layout=compact&theme=tokyonight&hide_title=true" alt="Most Used Languages" />
-</p>
-
 ## Connect With Me
 
 <p align="center">
