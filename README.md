@@ -1,13 +1,13 @@
-# 👋 Hey, I'm Gabriel Espinoza
+# Hey, I'm Gabriel Espinoza
 
 <div align="left">
-Senior Computer Science Major @ <b>George Mason University</b>  
-Graduating July 2025    
+M.S. in Computer Science @ <b>George Mason University</b>
+Graduating 2027  
 </div>
 
 ## About Me
 
-I'm a full-stack developer and aspiring software engineer with experience in Python, Java, C, JavaScript/TypeScript, and Swift. I’ve worked with tools like Docker, Git, Oracle, MongoDB, and MySQL. My academic and project work focus on software engineering, AI/ML, and systems programming. I'm actively seeking full-time software engineering opportunities after graduating from George Mason University in July 2025.
+I'm a full-stack developer and aspiring software engineer with experience in Python, Java, C, JavaScript/TypeScript. I’ve worked with tools like Docker, Git, Oracle, MongoDB, and MySQL. My academic and project work focus on software engineering, AI/ML, and systems programming.
 
 ## Tech Stack
 
