@@ -1,8 +1,7 @@
 # Hey, I'm Gabriel Espinoza
 
 <div align="left">
-M.S. in Computer Science @ <b>George Mason University</b>
-Graduating 2027  
+M.S. in Computer Science @ <b>George Mason University</b>, Graduating 2027  
 </div>
 
 ## About Me
