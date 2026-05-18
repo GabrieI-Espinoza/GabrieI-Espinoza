@@ -6,8 +6,7 @@ I am a Computer Science Master's student at George Mason University, based in Fa
 ### Tech Stack
 
 * **Programming Languages:** Python, C, Java, JavaScript, HTML/CSS
-* **Frameworks & Databases:** FastAPI, PostgreSQL, MySQL, Redis, Tortoise ORM
-
+* **Frameworks:** FastAPI, React, Express.js, Node.js, Tailwind CSS 
 
 ### Connect with Me
 * **Email:** gabriel@gespinoza.com
