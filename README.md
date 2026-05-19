@@ -1,6 +1,6 @@
 # Hello! I'm Gabriel 
 
-I am a Computer Science Master's student at George Mason University, based in Fairfax, VA. I am passionate about backend development and systems programming, and I'm currently focused on expanding my knowledge in distributed systems and cloud technologies. 
+I am a Computer Science Master's student at George Mason University, based in Fairfax, VA. I am passionate about backend development and systems programming, and I'm currently focused on expanding my knowledge in AI/ML and cloud technologies. 
 
 
 ### Tech Stack
